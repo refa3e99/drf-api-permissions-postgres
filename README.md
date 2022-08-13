@@ -20,3 +20,6 @@
 - How do you run tests? ```python manage.py test```
 - Any tests of note? N\A
 - Describe any tests that you did not complete, skipped, etc N\A
+#### Docker
+![](s.png)
+![](scnsht.png)
