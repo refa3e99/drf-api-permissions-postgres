@@ -1,9 +1,6 @@
 # LAB - drf-api-permissions-postgres
-#### username1 : admin
-#### password1 : 12345
-
-#### username1 : refae
-#### password1 : RiffLord
+#### username : admin
+#### password : 12345
 
 #### path url : http://localhost:8000/api/v1/things/
 ## Project: django_project
